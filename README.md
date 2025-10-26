@@ -9,3 +9,4 @@ This README file shows overall progress of my journey on a week to week basis. T
 # WEEK 1 : RESEARCH
 
 Day 1 : Started reading book "Database System Concepts" from Chapter 10
+Day 2: Continued progress on Chapter 10
