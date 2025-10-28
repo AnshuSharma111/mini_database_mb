@@ -11,3 +11,5 @@ Good start, the plan is to read the book, "Database System Concepts" from chapte
 Decent day. We're now 16 pages deep into Chapter 10 but what a chapter it is! And its quite long as well. I am learning a lot though. So far we're more into Operating Systems territory than Database Systems territory. How data is stored physically.
 # Day 3
 No progress today but I'll cover up in Day 4.
+# Day 4
+Not done yet but still making progress through the chapter learning about RAID levels.
