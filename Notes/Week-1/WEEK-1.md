@@ -13,3 +13,5 @@ Decent day. We're now 16 pages deep into Chapter 10 but what a chapter it is! An
 No progress today but I'll cover up in Day 4.
 # Day 4
 Not done yet but still making progress through the chapter learning about RAID levels.
+# Day 5
+Ok so we are done with all types of physical storage. Now we are heading to file organisation. So its time to move to logical divisions rather than physical.
