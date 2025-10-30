@@ -15,3 +15,5 @@ No progress today but I'll cover up in Day 4.
 Not done yet but still making progress through the chapter learning about RAID levels.
 # Day 5
 Ok so we are done with all types of physical storage. Now we are heading to file organisation. So its time to move to logical divisions rather than physical.
+# Day 6
+Progress, albeit slow
