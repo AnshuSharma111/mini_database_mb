@@ -19,3 +19,5 @@ Day 4: More progress on Chapter 10
 Day 5: Done with physical storage. Let's move on to File Organisation.
 
 Day 6: Progress. Albeit slow
+
+Day 7: Doing File Organisation

@@ -17,3 +17,5 @@ Not done yet but still making progress through the chapter learning about RAID l
 Ok so we are done with all types of physical storage. Now we are heading to file organisation. So its time to move to logical divisions rather than physical.
 # Day 6
 Progress, albeit slow
+# Day 7
+Now we are studying fixed vs variable length records and their mappings to a file
